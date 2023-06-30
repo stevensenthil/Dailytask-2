@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+ul{
+	list-style:none;
+	padding-left:0px!important;
+}
+h1{
+	font-size:3.5rem!important;
+}
+.image{
+	position:relative;
+}
+.secimg{
+	position:absolute;
+	top:190px;
+	left:-113px;
+}
+.secimg-1{
+	position:absolute;
+	top:160px;
+	left:-50px;
+}
+.secimg-2{
+	position:absolute;
+	top:155px;
+	right:205px;
+}
